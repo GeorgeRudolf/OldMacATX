@@ -8,11 +8,11 @@ ATX PSU adapter for old Macintoshes - from PowerMac 7/8100 back to...whatever Ma
 
 
 You'll need:
-An ATX PSU (duh)
-A single gate inverter in SOT-23-5 package (SN74LVC1G04DBVR or compatible)
-A 100nF capacitor in 0805 package, rated to 10V or better, X5R dielectric or better
-A male 20 position Molex MiniFit Jr. header, p/n 39-29-9205 or similar (or half of an ATX extender cable, or the ATX connector ripped off some old motherboard)
-A female 10 position Molex MiniFit Jr. header, p/n 15-24-7100 or similar (or the harness from your decrepit Mac PSU)
+1- An ATX PSU (duh)
+2- A single gate inverter in SOT-23-5 package (SN74LVC1G04DBVR or compatible)
+3- A 100nF capacitor in 0805 package, rated to 10V or better, X5R dielectric or better
+4- A male 20 position Molex MiniFit Jr. header, p/n 39-29-9205 or similar (or half of an ATX extender cable, or the ATX connector ripped off some old motherboard)
+5- A female 10 position Molex MiniFit Jr. header, p/n 15-24-7100 or similar (or the harness from your decrepit Mac PSU)
 
 It`s generally hand-solderable and foolproof. I'll provide JLC assembly files for at least the two SMD parts.
 
