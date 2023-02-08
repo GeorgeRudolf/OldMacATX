@@ -20,3 +20,6 @@ You'll need:
 It`s generally hand-solderable and foolproof. I'll provide JLC assembly files for at least the SMD parts. Resistors are probably required
 
 I am not responsible if you blow yourself or your Mac up in attempting this. These files are provided in the expectation anyone attempting to use them is sufficiently skilled to do so.
+
+
+Also thanks to https://github.com/phipli for sanity checking
