@@ -1,5 +1,5 @@
 # OldMacATX
-ATX PSU adapter for old Macintoshes - from PowerMac 7/8100 back to...whatever Mac II submodel first used a 10 pin connector. Finally a replacement to a rewired ATX extender harness.
+ATX PSU adapter for old Macintoshes - IIcx, IIci, (IIsi? should be the same), IIvx, IIvi, P600, C/Q650, Q800, PM7100. Finally a replacement to a rewired ATX extender harness.
 
 
 ![image](https://user-images.githubusercontent.com/24400566/215982972-bb1de56f-9a03-4c88-bdbf-023c384c4f75.png)
