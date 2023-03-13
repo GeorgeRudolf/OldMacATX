@@ -1,4 +1,4 @@
-Category,Quantity,References,Value,LCSC Part #,Footprint
-Capacitors,1,C1,100nF,C49678 ,0805
-Resistors,2,"R1,R2",2.2K,C17520 ,0805
-Integrated Circuits,1,U1,SN74LVC1G04DBVR,C7827 ,SOT-23-5
+Comment,Designator,Footprint,JLCPCB Part #
+100nF,C1,C0805,C49678
+2.2K,"R1,R2",R0805,C17520
+SN74LVC1G04DBVR,U1,SOT-23-5,C7827 
