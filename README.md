@@ -7,7 +7,7 @@ ATX PSU adapter for old Macintoshes - IIcx, IIci, (IIsi? should be the same), II
 
 ![image](https://user-images.githubusercontent.com/24400566/217627869-9d37cdce-920e-44ec-91e4-72bef17ea145.png)
 
-
+Attention! There now is a version (alternate suffix) with oblong holes for the 20-pin connector, allowing use of ones where the pins do not have kinked legs - this was a bad oversight on my part on the first revision.
 
 You'll need:
 1- An ATX PSU (duh)
